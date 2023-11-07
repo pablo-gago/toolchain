@@ -6,10 +6,13 @@ Test compile a project in JDK17 with multiple modules, each one with a distinct 
 ## Prerequisites
 
 To run the application locally, you need to ensure that the following prerequisites are met:
+
 Install JDK17
 [Eclipse Adoptium jdk17][jdk17-download]
+
 Install java 11
 [jdk-11.0.12.7][java11-download]
+
 Install java 8
 [jdk1.8.0_202][java8-download]
 
